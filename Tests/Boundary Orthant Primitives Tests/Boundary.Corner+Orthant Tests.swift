@@ -1,8 +1,7 @@
 // Boundary.Corner+Orthant Tests.swift
 
-import Testing
-
 import Boundary_Orthant_Primitives
+import Testing
 
 @Suite
 struct `Boundary.Corner Orthant projection` {

@@ -1,0 +1,10 @@
+# .github/metadata.yaml
+description: "Orthant projection of rectangle corners for Swift — bridges boundary Corners to per-axis direction vectors."
+topics:
+  - primitives
+  - boundary
+  - orthant
+  - geometry
+homepage: "https://swift-institute.org"
+readme:
+  family: E
