@@ -1,5 +1,3 @@
-// Boundary.Corner+Orthant Tests.swift
-
 import Boundary_Orthant_Primitives
 import Testing
 
